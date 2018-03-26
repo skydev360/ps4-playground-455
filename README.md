@@ -17,4 +17,6 @@ Payload used :
     APP2USB - stooged
     GTA 5 MOD - lamance
     Enable Web Browser - 2much4ux
-	  Linux loader - vultra
+    Linux loader - vultra
+
+Thanks to Devs. I only create simple HTML page to exploit easily with payload. Poorly coded and designed page I know. Thanks to c0d3m4st4. Inspired from him
