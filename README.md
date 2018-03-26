@@ -14,7 +14,7 @@ Payload used :
 
     HEN,FTP - xvortex
     FW blocker - lightningmods
-    APP2USB - stooged
+    APP2USB v13- stooged
     GTA 5 MOD - lamance
     Enable Web Browser - 2much4ux
     Linux loader - vultra
