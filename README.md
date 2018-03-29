@@ -1,6 +1,6 @@
 # PS4-4.55-Playground
 
-![capture](https://user-images.githubusercontent.com/36906814/37982126-35c65502-3222-11e8-8d17-86c87a614f9b.PNG)
+![20180330064413](https://user-images.githubusercontent.com/36906814/38117210-564de52c-33e6-11e8-93da-7330ed4d33ba.jpg)
 
 
 Simple PS4 Playground to run exploit along with payload. This playground can be hosted on PC/Android with some help of external webserver application :
